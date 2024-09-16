@@ -1,4 +1,4 @@
-Affirmations App - Starter Code
+Affirmations App - Starter Code (goheg Codealong)
 ================================
 
 Starter code for the Android Basics with Compose: Affirmations app.
